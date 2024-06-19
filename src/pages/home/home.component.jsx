@@ -4,6 +4,7 @@ function Home() {
   return (
     <>
       <h1>Budget your finance for stability.</h1>
+   
     </>
   );
 }

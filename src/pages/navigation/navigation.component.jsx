@@ -11,7 +11,7 @@ function Navigation() {
           <div className="logo">BUDGETS App</div>
         </Link>
         <div className="nav-links-container">
-          <Link className="nav-link" to="/login">
+          <Link className="nav-link" to="/sign-in">
             SIGN IN
           </Link>
         </div>
